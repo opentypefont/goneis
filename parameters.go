@@ -1,4 +1,4 @@
-package neisgo
+package goneis
 
 import (
 	"net/url"

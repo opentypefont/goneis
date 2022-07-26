@@ -1,4 +1,4 @@
-package neisgo
+package goneis
 
 // NewNeisClient returns new neis api wrapper client.
 // Key is optional. If key is missing(""), it will use sample key(5 data only).
