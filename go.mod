@@ -1,4 +1,4 @@
-module neisgo
+module github.com/opentypefont/goneis
 
 go 1.18
 
