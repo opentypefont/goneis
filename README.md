@@ -1,6 +1,6 @@
 # goneis
 [Open NEIS API](https://open.neis.go.kr/) wrapper for Go
-##Usage
+## Usage
 ```go
 func main() {
     client := NewNeisClient("")
