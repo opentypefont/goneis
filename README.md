@@ -1,5 +1,7 @@
 # goneis
 [Open NEIS API](https://open.neis.go.kr/) wrapper for Go
+## Deprecated
+I will make another thing. See you soon!
 ## Usage
 ```go
 func main() {
